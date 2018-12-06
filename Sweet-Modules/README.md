@@ -3,6 +3,7 @@
 VCV Rack plugin experiments.
 ##
 Sweet CLOCK
+
 This module is a clock with two outputs:
 * The first output is the straight clock pulse
 * The second output is the scaled, [0-2], pulse
